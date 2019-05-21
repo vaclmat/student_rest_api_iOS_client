@@ -21,7 +21,7 @@
 		<!-- MobileFirst adapter deployment properties -->
 		<mfpfUrl>https://mobilefoundation-935bee-server.eu-gb.mybluemix.net/mfpadmin</mfpfUrl>
 		<mfpfUser>admin</mfpfUser>
-		<mfpfPassword>dirAc$jtt9</mfpfPassword>
+		<mfpfPassword>xxxxxxxxx</mfpfPassword>
 		<mfpfRuntime>mfp</mfpfRuntime>
 	</properties>
 
