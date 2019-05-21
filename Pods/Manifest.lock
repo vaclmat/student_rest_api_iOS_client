@@ -1,0 +1,24 @@
+PODS:
+  - IBMMobileFirstPlatformFoundation (8.0.2019042610)
+  - JWTDecode (2.3.0)
+  - SwiftKeychainWrapper (3.3.0)
+
+DEPENDENCIES:
+  - IBMMobileFirstPlatformFoundation
+  - JWTDecode
+  - SwiftKeychainWrapper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IBMMobileFirstPlatformFoundation
+    - JWTDecode
+    - SwiftKeychainWrapper
+
+SPEC CHECKSUMS:
+  IBMMobileFirstPlatformFoundation: c3ca83b4c6888e3f59db805414a97897853ba414
+  JWTDecode: fb77675c8049c1a7e9433c7cf448c3ce33ee4ac7
+  SwiftKeychainWrapper: ef5ad793bc0e08e24a5913f28345b8f7bc8e4123
+
+PODFILE CHECKSUM: b26c5180ee8b749cbf7e77b194f2b75509f6bc71
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Student Services"; ObjectID = "1yH-dY-KiO"; */
+"1yH-dY-KiO.text" = "Student Services";
+
+/* Class = "UILabel"; text = "User Services"; ObjectID = "7Sf-Bl-10B"; */
+"7Sf-Bl-10B.text" = "User Services";
+
+/* Class = "UITextField"; placeholder = "Student ID"; ObjectID = "Cl1-0i-VZL"; */
+"Cl1-0i-VZL.placeholder" = "Student ID";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "Ctz-Th-9PA"; */
+"Ctz-Th-9PA.normalTitle" = "Logout";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "FGp-14-GTl"; */
+"FGp-14-GTl.placeholder" = "Username";
+
+/* Class = "UITabBarItem"; title = "Student Services"; ObjectID = "Ven-if-vPW"; */
+"Ven-if-vPW.title" = "Student Services";
+
+/* Class = "UILabel"; text = "Student Database"; ObjectID = "XqO-q9-8CR"; */
+"XqO-q9-8CR.text" = "Student Database";
+
+/* Class = "UILabel"; text = "Student Database"; ObjectID = "bJX-pe-KNI"; */
+"bJX-pe-KNI.text" = "Student Database";
+
+/* Class = "UILabel"; text = "Welcome to application maintaining students data"; ObjectID = "cXj-EN-CqZ"; */
+"cXj-EN-CqZ.text" = "Welcome to application maintaining students data";
+
+/* Class = "UILabel"; text = "Student Database"; ObjectID = "eb6-ni-84d"; */
+"eb6-ni-84d.text" = "Student Database";
+
+/* Class = "UITabBarItem"; title = "User Services"; ObjectID = "ijy-6Y-c7C"; */
+"ijy-6Y-c7C.title" = "User Services";
+
+/* Class = "UILabel"; text = "Signon to the application"; ObjectID = "isI-WI-2qh"; */
+"isI-WI-2qh.text" = "Signon to the application";
+
+/* Class = "UIButton"; normalTitle = "Get All Students"; ObjectID = "kzy-Ea-hTj"; */
+"kzy-Ea-hTj.normalTitle" = "Get All Students";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "lnV-ej-OVX"; */
+"lnV-ej-OVX.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Signon"; ObjectID = "pXo-aO-35t"; */
+"pXo-aO-35t.normalTitle" = "Signon";
+
+/* Class = "UIButton"; normalTitle = "Get Student By ID"; ObjectID = "xSv-xQ-0c4"; */
+"xSv-xQ-0c4.normalTitle" = "Get Student By ID";

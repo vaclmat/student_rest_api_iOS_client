@@ -1,0 +1,6 @@
+framework module Pods_Student_Database {
+  umbrella header "Pods-Student Database-umbrella.h"
+
+  export *
+  module * { export * }
+}
